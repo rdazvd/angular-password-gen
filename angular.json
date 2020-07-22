@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "password-gen"
+    }
+  },
+  "defaultProject": "password-gen",
+  "cli": {
+    "analytics": false
+  }
 }
